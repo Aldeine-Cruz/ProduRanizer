@@ -1,0 +1,8 @@
+Sample Product,₱15.00,56
+Product,₱65.00,30
+Product TLV1,₱701.88,446
+Product SM66,₱906.51,510
+Product 3NA9,₱747.91,63
+New Product,₱486.65,62
+Product PYKP,₱658.73,403
+Product JDT9,₱813.92,530
